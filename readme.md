@@ -1,0 +1,1 @@
+This is a boilerplate for running es6 in the browser using webpack.  It also installs eslint using AirBnB style guide.
